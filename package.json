@@ -1,0 +1,24 @@
+{
+  "name": "ac-factory",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Emilio Jeldes",
+    "url": "https://github.com/EmilioJeldes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmilioJeldes"
+  },
+  "description": "Action creator library",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "LICENSE.md",
+    "index.js"
+  ],
+  "keywords": ["redux", "react"],
+  "publishConfig": {
+    "access": "public"
+  }
+}
