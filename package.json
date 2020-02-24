@@ -1,5 +1,5 @@
 {
-  "name": "ac-factory",
+  "name": "ejs-acfactory",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EmilioJeldes"
+    "url": "https://github.com/EmilioJeldes/ejs-acfactory"
   },
-  "description": "Action creator library",
+  "description": "Redux action creator library",
   "main": "index.js",
   "files": [
     "README.md",
